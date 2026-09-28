@@ -56,10 +56,8 @@ screenshots/
 .config/
 .upm/
 .pythonlibs/
-.replit
 .replitignore
 replit.md
-**/.replit-artifact/
 .env
 .env.*
 !.env.example
